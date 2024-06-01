@@ -1,4 +1,7 @@
-# furkando.com
+# [furkando.com](https://furkando.com)
+
+[![Vercel](https://vercelbadge.vercel.app/api/furkando/furkando.com)](https://vercel.com/frkndo/furkando-com)
+[![GitHub](https://img.shields.io/github/license/furkando/furkando.com)](htts://github.com/furkando/furkando.com/blob/master/LICENSE)
 
 <img src="furkando.png" alt="furkando.com — Furkan Doğan" style="border-radius: 12px; border: 1px solid #e5e7eb" />
 
