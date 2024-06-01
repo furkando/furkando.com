@@ -1,6 +1,16 @@
 import { BookmarkIcon, GithubIcon, HomeIcon, LinkedinIcon, NavigationIcon, PencilLineIcon } from 'lucide-react'
 
 export const PROFILES = {
+  github: {
+    title: 'GitHub',
+    url: 'https://github.com/furkando',
+    icon: <GithubIcon size={16} />
+  },
+  linkedin: {
+    title: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/furkando',
+    icon: <LinkedinIcon size={16} />
+  },
   twitter: {
     title: 'X (Twitter)',
     username: 'frkndo',
@@ -23,16 +33,6 @@ export const PROFILES = {
         <path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" />
       </svg>
     )
-  },
-  github: {
-    title: 'GitHub',
-    url: 'https://github.com/furkando',
-    icon: <GithubIcon size={16} />
-  },
-  linkedin: {
-    title: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/furkando',
-    icon: <LinkedinIcon size={16} />
   },
   resume: {
     title: 'Resume',
