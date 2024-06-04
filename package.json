@@ -45,7 +45,7 @@
     "sonner": "^1.4.3",
     "sugar-high": "^0.6.0",
     "tailwind-merge": "^2.2.1",
-    "vaul": "^0.9.0",
+    "vaul": "github:furkando/vaul#feat/local-build",
     "zod": "^3.22.4"
   },
   "devDependencies": {
