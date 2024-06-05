@@ -59,7 +59,7 @@ export const getPost = cache(async (slug, preview = isDevelopment) => {
   try {
     const entry = await fetchGraphQL(
       `query {
-        postCollection(limit: 1) {
+        postCollection(where: { slug: "${slug}" }, preview: ${preview}, limit: 1) {
           items {
             title
             slug
