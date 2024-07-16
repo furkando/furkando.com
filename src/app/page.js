@@ -29,7 +29,7 @@ export default async function Home() {
           <h1 className="mb-4 text-4xl font-bold">Hi! I'm Furkan 👋</h1>
           <br />
           <p>
-            Founder of{' '}
+            Builder of{' '}
             <Link href="https://cronshot.io" target="_blank" rel="noopener noreferrer">
               CronShot
             </Link>{' '}
