@@ -38,10 +38,10 @@ export default async function Home() {
           </p>
           <p>
             Developing stuff at{' '}
-            <Link href="https://usehaystack.io" target="_blank" rel="noopener noreferrer">
-              Haystack
+            <Link href="https://lighter.xyz" target="_blank" rel="noopener noreferrer">
+              Lighter
             </Link>{' '}
-            to helping build data-driven software teams.
+            to helping trade perpetuals with unmatched efficiency and fairness.
           </p>
           <Button asChild variant="link" className="inline px-0">
             <Link href="/writing">
